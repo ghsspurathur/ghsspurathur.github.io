@@ -89,6 +89,8 @@ background: #4caf50;
 
 #article {
 padding: 10px;
+color: #333;
+font-size: 14pt;
 }
 
 .flexbin {
@@ -207,6 +209,10 @@ padding: 10px;
 
 h3 {
 margin: 0 0 10px 10px;
+}
+
+#article h3 {
+margin: 0px !important;
 }
 
 address {
